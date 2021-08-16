@@ -1,0 +1,41 @@
+body {
+  background-color: #e4d3d1;
+}
+h1 {
+  text-align: left;
+  font-size: 70px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin-left: 20px;
+  margin-top: 30px;
+  color: rgb(80, 68, 68);
+}
+#display {
+  width: 370px;
+  height: 50px;
+  text-align: right;
+  background-color: rgb(253, 253, 253);
+  padding-right: 25px;
+  margin-left: 5px;
+  color: lightcoral;
+}
+input {
+  width: 80px;
+  height: 80px;
+  font-size: 50px;
+  border-radius: 30px;
+  margin: 5px;
+  margin-left: 10px;
+  background-color: grey;
+  color: #fff;
+  border-style: none;
+}
+.calbutton {
+  background-color: salmon;
+  padding-left: 10px;
+}
+#buttonC {
+  background-color: firebrick;
+}
+hr {
+  border: 2px solid rgb(209, 131, 131);
+}
